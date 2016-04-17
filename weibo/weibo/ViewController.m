@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self.view setBackgroundColor:[UIColor redColor]];
+    NSLog(@"第二部");
 }
 
 - (void)didReceiveMemoryWarning {
